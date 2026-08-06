@@ -1,0 +1,351 @@
+[
+  {
+    "수업": "웹 프로그래밍",
+    "교수": "김도현 교수",
+    "링크": "demo-web",
+    "과제": [
+      {
+        "과제이름": "HTML·CSS 반응형 페이지",
+        "제출여부": 1,
+        "제출일": "2026-08-10 23:59",
+        "과제링크": "https://example.com/guamegi/demo-web/assignment-1"
+      },
+      {
+        "과제이름": "Vue 컴포넌트 설계",
+        "제출여부": 1,
+        "제출일": "2026-08-13 23:59",
+        "과제링크": "https://example.com/guamegi/demo-web/assignment-2"
+      },
+      {
+        "과제이름": "REST API 연동",
+        "제출여부": 1,
+        "제출일": "2026-08-17 23:59",
+        "과제링크": "https://example.com/guamegi/demo-web/assignment-3"
+      },
+      {
+        "과제이름": "로그인 화면 구현",
+        "제출여부": 1,
+        "제출일": "2026-08-20 23:59",
+        "과제링크": "https://example.com/guamegi/demo-web/assignment-4"
+      },
+      {
+        "과제이름": "팀 프로젝트 최종 배포",
+        "제출여부": 0,
+        "제출일": "2026-09-05 23:59",
+        "과제링크": "https://example.com/guamegi/demo-web/assignment-5"
+      }
+    ]
+  },
+  {
+    "수업": "데이터베이스",
+    "교수": "박서연 교수",
+    "링크": "demo-db",
+    "과제": [
+      {
+        "과제이름": "ER 다이어그램 작성",
+        "제출여부": 1,
+        "제출일": "2026-08-11 23:59",
+        "과제링크": "https://example.com/guamegi/demo-db/assignment-1"
+      },
+      {
+        "과제이름": "정규화 연습",
+        "제출여부": 1,
+        "제출일": "2026-08-14 23:59",
+        "과제링크": "https://example.com/guamegi/demo-db/assignment-2"
+      },
+      {
+        "과제이름": "SQL 조회문 실습",
+        "제출여부": 1,
+        "제출일": "2026-08-18 23:59",
+        "과제링크": "https://example.com/guamegi/demo-db/assignment-3"
+      },
+      {
+        "과제이름": "인덱스 성능 비교",
+        "제출여부": 1,
+        "제출일": "2026-08-22 23:59",
+        "과제링크": "https://example.com/guamegi/demo-db/assignment-4"
+      },
+      {
+        "과제이름": "트랜잭션 보고서",
+        "제출여부": 1,
+        "제출일": "2026-08-28 23:59",
+        "과제링크": "https://example.com/guamegi/demo-db/assignment-5"
+      },
+      {
+        "과제이름": "쇼핑몰 DB 설계",
+        "제출여부": 0,
+        "제출일": "2026-09-07 23:59",
+        "과제링크": "https://example.com/guamegi/demo-db/assignment-6"
+      }
+    ]
+  },
+  {
+    "수업": "운영체제",
+    "교수": "이준호 교수",
+    "링크": "demo-os",
+    "과제": [
+      {
+        "과제이름": "프로세스 상태 분석",
+        "제출여부": 1,
+        "제출일": "2026-08-09 23:59",
+        "과제링크": "https://example.com/guamegi/demo-os/assignment-1"
+      },
+      {
+        "과제이름": "CPU 스케줄링 계산",
+        "제출여부": 1,
+        "제출일": "2026-08-12 23:59",
+        "과제링크": "https://example.com/guamegi/demo-os/assignment-2"
+      },
+      {
+        "과제이름": "동기화 문제 풀이",
+        "제출여부": 1,
+        "제출일": "2026-08-16 23:59",
+        "과제링크": "https://example.com/guamegi/demo-os/assignment-3"
+      },
+      {
+        "과제이름": "교착상태 보고서",
+        "제출여부": 1,
+        "제출일": "2026-08-21 23:59",
+        "과제링크": "https://example.com/guamegi/demo-os/assignment-4"
+      },
+      {
+        "과제이름": "가상 메모리 실습",
+        "제출여부": 1,
+        "제출일": "2026-08-25 23:59",
+        "과제링크": "https://example.com/guamegi/demo-os/assignment-5"
+      },
+      {
+        "과제이름": "파일 시스템 비교",
+        "제출여부": 1,
+        "제출일": "2026-08-30 23:59",
+        "과제링크": "https://example.com/guamegi/demo-os/assignment-6"
+      },
+      {
+        "과제이름": "스레드 프로그램 구현",
+        "제출여부": 0,
+        "제출일": "2026-09-09 23:59",
+        "과제링크": "https://example.com/guamegi/demo-os/assignment-7"
+      }
+    ]
+  },
+  {
+    "수업": "네트워크 보안",
+    "교수": "최민지 교수",
+    "링크": "demo-security",
+    "과제": [
+      {
+        "과제이름": "OSI 계층 정리",
+        "제출여부": 1,
+        "제출일": "2026-08-08 23:59",
+        "과제링크": "https://example.com/guamegi/demo-security/assignment-1"
+      },
+      {
+        "과제이름": "패킷 캡처 분석",
+        "제출여부": 1,
+        "제출일": "2026-08-13 23:59",
+        "과제링크": "https://example.com/guamegi/demo-security/assignment-2"
+      },
+      {
+        "과제이름": "대칭키·공개키 비교",
+        "제출여부": 1,
+        "제출일": "2026-08-18 23:59",
+        "과제링크": "https://example.com/guamegi/demo-security/assignment-3"
+      },
+      {
+        "과제이름": "TLS 핸드셰이크 분석",
+        "제출여부": 1,
+        "제출일": "2026-08-23 23:59",
+        "과제링크": "https://example.com/guamegi/demo-security/assignment-4"
+      },
+      {
+        "과제이름": "방화벽 정책 작성",
+        "제출여부": 1,
+        "제출일": "2026-08-27 23:59",
+        "과제링크": "https://example.com/guamegi/demo-security/assignment-5"
+      },
+      {
+        "과제이름": "침입 탐지 실습",
+        "제출여부": 1,
+        "제출일": "2026-08-31 23:59",
+        "과제링크": "https://example.com/guamegi/demo-security/assignment-6"
+      },
+      {
+        "과제이름": "취약한 프로토콜 개선안",
+        "제출여부": 0,
+        "제출일": "2026-09-06 23:59",
+        "과제링크": "https://example.com/guamegi/demo-security/assignment-7"
+      },
+      {
+        "과제이름": "네트워크 보안 최종 보고서",
+        "제출여부": 0,
+        "제출일": "2026-09-13 23:59",
+        "과제링크": "https://example.com/guamegi/demo-security/assignment-8"
+      }
+    ]
+  },
+  {
+    "수업": "소프트웨어 공학",
+    "교수": "정우진 교수",
+    "링크": "demo-se",
+    "과제": [
+      {
+        "과제이름": "요구사항 명세서",
+        "제출여부": 1,
+        "제출일": "2026-08-10 18:00",
+        "과제링크": "https://example.com/guamegi/demo-se/assignment-1"
+      },
+      {
+        "과제이름": "유스케이스 다이어그램",
+        "제출여부": 1,
+        "제출일": "2026-08-15 18:00",
+        "과제링크": "https://example.com/guamegi/demo-se/assignment-2"
+      },
+      {
+        "과제이름": "클래스 다이어그램",
+        "제출여부": 1,
+        "제출일": "2026-08-20 18:00",
+        "과제링크": "https://example.com/guamegi/demo-se/assignment-3"
+      },
+      {
+        "과제이름": "테스트 계획서",
+        "제출여부": 1,
+        "제출일": "2026-08-25 18:00",
+        "과제링크": "https://example.com/guamegi/demo-se/assignment-4"
+      },
+      {
+        "과제이름": "코드 리뷰 기록",
+        "제출여부": 1,
+        "제출일": "2026-08-29 18:00",
+        "과제링크": "https://example.com/guamegi/demo-se/assignment-5"
+      },
+      {
+        "과제이름": "리팩터링 보고서",
+        "제출여부": 1,
+        "제출일": "2026-09-02 18:00",
+        "과제링크": "https://example.com/guamegi/demo-se/assignment-6"
+      },
+      {
+        "과제이름": "팀 회고 문서",
+        "제출여부": 0,
+        "제출일": "2026-09-08 18:00",
+        "과제링크": "https://example.com/guamegi/demo-se/assignment-7"
+      },
+      {
+        "과제이름": "프로젝트 발표 자료",
+        "제출여부": 0,
+        "제출일": "2026-09-15 18:00",
+        "과제링크": "https://example.com/guamegi/demo-se/assignment-8"
+      }
+    ]
+  },
+  {
+    "수업": "인공지능 개론",
+    "교수": "한지수 교수",
+    "링크": "demo-ai",
+    "과제": [
+      {
+        "과제이름": "탐색 알고리즘 비교",
+        "제출여부": 1,
+        "제출일": "2026-08-12 23:59",
+        "과제링크": "https://example.com/guamegi/demo-ai/assignment-1"
+      },
+      {
+        "과제이름": "선형 회귀 실습",
+        "제출여부": 1,
+        "제출일": "2026-08-17 23:59",
+        "과제링크": "https://example.com/guamegi/demo-ai/assignment-2"
+      },
+      {
+        "과제이름": "분류 모델 평가",
+        "제출여부": 1,
+        "제출일": "2026-08-22 23:59",
+        "과제링크": "https://example.com/guamegi/demo-ai/assignment-3"
+      },
+      {
+        "과제이름": "과적합 개선 실험",
+        "제출여부": 1,
+        "제출일": "2026-08-26 23:59",
+        "과제링크": "https://example.com/guamegi/demo-ai/assignment-4"
+      },
+      {
+        "과제이름": "CNN 구조 분석",
+        "제출여부": 1,
+        "제출일": "2026-08-30 23:59",
+        "과제링크": "https://example.com/guamegi/demo-ai/assignment-5"
+      },
+      {
+        "과제이름": "자연어 처리 미니 프로젝트",
+        "제출여부": 1,
+        "제출일": "2026-09-03 23:59",
+        "과제링크": "https://example.com/guamegi/demo-ai/assignment-6"
+      },
+      {
+        "과제이름": "모델 윤리 보고서",
+        "제출여부": 0,
+        "제출일": "2026-09-10 23:59",
+        "과제링크": "https://example.com/guamegi/demo-ai/assignment-7"
+      },
+      {
+        "과제이름": "AI 서비스 기획서",
+        "제출여부": 0,
+        "제출일": "2026-09-17 23:59",
+        "과제링크": "https://example.com/guamegi/demo-ai/assignment-8"
+      }
+    ]
+  },
+  {
+    "수업": "캡스톤디자인",
+    "교수": "오세진 교수",
+    "링크": "demo-capstone",
+    "과제": [
+      {
+        "과제이름": "프로젝트 제안서",
+        "제출여부": 1,
+        "제출일": "2026-08-09 17:00",
+        "과제링크": "https://example.com/guamegi/demo-capstone/assignment-1"
+      },
+      {
+        "과제이름": "시장·사용자 조사",
+        "제출여부": 1,
+        "제출일": "2026-08-14 17:00",
+        "과제링크": "https://example.com/guamegi/demo-capstone/assignment-2"
+      },
+      {
+        "과제이름": "시스템 아키텍처",
+        "제출여부": 1,
+        "제출일": "2026-08-19 17:00",
+        "과제링크": "https://example.com/guamegi/demo-capstone/assignment-3"
+      },
+      {
+        "과제이름": "1차 프로토타입",
+        "제출여부": 1,
+        "제출일": "2026-08-24 17:00",
+        "과제링크": "https://example.com/guamegi/demo-capstone/assignment-4"
+      },
+      {
+        "과제이름": "중간 발표",
+        "제출여부": 1,
+        "제출일": "2026-08-29 17:00",
+        "과제링크": "https://example.com/guamegi/demo-capstone/assignment-5"
+      },
+      {
+        "과제이름": "사용성 테스트",
+        "제출여부": 1,
+        "제출일": "2026-09-04 17:00",
+        "과제링크": "https://example.com/guamegi/demo-capstone/assignment-6"
+      },
+      {
+        "과제이름": "최종 구현",
+        "제출여부": 1,
+        "제출일": "2026-09-11 17:00",
+        "과제링크": "https://example.com/guamegi/demo-capstone/assignment-7"
+      },
+      {
+        "과제이름": "최종 발표 및 시연",
+        "제출여부": 0,
+        "제출일": "2026-09-20 17:00",
+        "과제링크": "https://example.com/guamegi/demo-capstone/assignment-8"
+      }
+    ]
+  }
+]

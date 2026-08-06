@@ -1,0 +1,35 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "dayjs": "^1.11.2",
+    "fullcalendar": "^5.11.0",
+    "http-proxy": "1.18.1",
+    "roboto-fontface": "*",
+    "vue": "^3.2.13",
+    "vue-3-socket.io": "^1.0.5",
+    "vue-router": "^4.0.3",
+    "vue-sweetalert2": "^5.0.5",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "webpack-plugin-vuetify": "^2.0.0-alpha.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
